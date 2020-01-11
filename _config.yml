@@ -74,6 +74,7 @@ gitalk:
 # Analytics settings
 # Baidu Analytics
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
+##baidu统计 贾先森的先森
 ba_track_id: 4f824e310e74ceb9e787db6a8bd6ecfc
 
 # Google Analytics
